@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Ballzai"
+date:   2010-03-20 12:11:50
+categories: Flash Games
+---
+A demo version from Ballzai can be played [here](http://www.gogogobox.com/ballzai/).
+The game was made using box2D.
+
+![Ballzai](/img/ballzai.png)

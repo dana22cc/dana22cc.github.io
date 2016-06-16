@@ -1,0 +1,10 @@
+# Site settings
+title: Dana Card
+description: Portfolio
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: dana22cc
+github_username:  dana22cc
+
+# Build settings
+markdown: kramdown
